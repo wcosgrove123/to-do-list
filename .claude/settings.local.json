@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(npx create-next-app:*)",
+      "Bash(pnpm init:*)",
+      "Bash(pnpm install:*)",
+      "Bash(curl:*)",
+      "Bash(supabase --version:*)",
+      "Bash(supabase init:*)",
+      "Bash(supabase start:*)",
+      "Bash(pnpm dev)"
+    ]
+  }
+}
